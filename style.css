@@ -16791,4 +16791,10 @@ label.checkbox { padding-left: 20px; }
 	animation-name: fadeOutUpSmall;
 }
 
+/*Custom stuf */
 
+@media (max-width: 576px){
+.mobilemidle {
+		margin-bottom: 200px;
+}
+}
